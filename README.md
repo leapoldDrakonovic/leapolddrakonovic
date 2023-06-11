@@ -28,7 +28,7 @@
 
 #### ✨Links✨
 
-<a href="https://www.instagram.com/pidobeer/">Instagram</a>
-<a href="https://vk.com/id242774779">VK</a>
-<a href="https://www.linkedin.com/in/egor-lapshin-a93222268/">Linkedin</a>
+<a align="left" href="https://www.instagram.com/pidobeer/">Instagram</a>
+<a align="left" href="https://vk.com/id242774779">VK</a>
+<a align="left" href="https://www.linkedin.com/in/egor-lapshin-a93222268/">Linkedin</a>
 
